@@ -1,0 +1,8 @@
+.folder{
+    height: 50px;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    padding: 5px 5px 5px 10px;
+    cursor: pointer;
+}

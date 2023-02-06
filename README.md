@@ -28,6 +28,9 @@ pages = > contains all pages
 app.js = >contains all routes
 store => created reducer to store notes
 
+### `Videos link`
+https://drive.google.com/drive/folders/1H0HQxszwclFsCIzcBUmWxqn4JZ067_7x?usp=share_link
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\

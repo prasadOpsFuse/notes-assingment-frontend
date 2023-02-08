@@ -7,6 +7,10 @@ In the project directory, you can run:
 ### `npm install`
 Install all required dependancies
 
+### `Add .eve file`
+create `.env.development` file in root directory and add below line
+REACT_APP_BASE_URL=http://127.0.0.1:5000/api/v1
+
 ### `npm start`
 
 Runs the app in the development mode.\
